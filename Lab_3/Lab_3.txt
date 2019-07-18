@@ -1,0 +1,21 @@
+1. Write a function that finds the maximum value in an array of integers. Test the function.
+
+2. Write a function that finds the index of the maximum value in an array of double numbers; test the function.
+
+3. Write a function that finds the difference between the minimum and the maximum in an double array and test it.
+
+4. Write a function that would swap the contents of double array (e.g., {1.2, 2.5, 6.5} -> {6.5, 2.5, 1.2}) and test it.
+
+5. Write a program that asks the user to enter three sets of double numbers, each set containing five numbers. (Assume that data entry is perfect, so no error checking is required.) Your program should do the following:
+
+a. Save the information in a 3×5 array.
+
+b. Calculate the average of each set of five numbers.
+
+c. Calculate the average of all values.
+
+d. Find the maximum of all 15 values.
+
+e. Display the results.
+
+Each task should be performed by a separate function. Task b can be solved by a function that calculates and returns the average of a single dimensional array; the function then is called three time by a loop. All other functions should take a whole array as an argument, while function of tasks c and d should return the result to the calling program.
