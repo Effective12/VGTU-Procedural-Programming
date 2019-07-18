@@ -1,0 +1,17 @@
+# Lab 2
+
+1. Devise a function called min(x,y) that returns the smaller of two double values. Test the function with a simple driver.
+
+2. Devise a function chline(ch,i,j) that prints the requested character in columns i through j. Test it in a simple driver.
+
+3. Write a function that takes three arguments: a character and two integers. The character is to be printed. The first integer specifies the number of times that the character is to be printed on a line, and the second integer specifies the number of lines that are to be printed. Write a program that makes use of this function.
+
+4. The harmonic mean of two numbers is obtained by taking the inverses of the two numbers, averaging them, and taking the inverse of the result. Write a function that takes two double arguments and returns the harmonic mean of the two numbers.
+
+5. Write and test a function called larger_of() that replaces the contents of two double variables with the maximum of the two values. For example, larger_of(x,y) would reset both x and y to the larger of the two.
+
+6. Write and test a function that takes the addresses of three double variables as arguments and that moves the value of the smallest variable into the first variable, the middle value to the second variable, and the largest value into the third variable.
+
+7. Write a program that reads characters from the standard input to end-of-file. For each character, have the program report whether it is a letter. If it is a letter, also report its numerical location in the alphabet. For example, c and C would both be letter 3. Incorporate a function that takes a character as an argument and returns the numerical location if the character is a letter and that returns –1 otherwise.
+
+11. Write and test a Fibonacci() function that uses a loop instead of recursion to calculate Fibonacci numbers.
